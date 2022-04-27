@@ -1,18 +1,15 @@
 ### Hi there 👋
 
-<!--
-**TheNord/thenord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Dmitriy.
 
-Here are some ideas to get you started:
+I'm PHP/GO Developer with 5+ years expirience in PHP and 1 year in GO.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Interesting projects
+
+If your team works according to Agile or Scrum methodology, maybe you will be interested in my project [Retrius](https://retrius.ru)
+
+On this platform, you can process a retrospectives for your entire team for free
 
 ![](https://hit.yhype.me/github/profile?user_id=43747639)
