@@ -2,7 +2,7 @@
 
 My name is Dmitriy.
 
-I'm PHP/GO Developer with 5+ years expirience in PHP and 1+ year in GO.
+I'm PHP and GO Developer with 7 years expirience in PHP and 1 year in GO.
 
 ---
 
